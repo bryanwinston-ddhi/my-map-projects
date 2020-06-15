@@ -1,0 +1,135 @@
+name,address,city,date,category,latitude,longitude,name,desc,source,precision,
+Augustine B. Barnard,606 Mary St,"St. Joseph, Missouri",1922,current residence,39.760695,-94.852651,"606 Mary St, St. Joseph, Missouri","606 Mary St, St Joseph, MO 64501",Bing Maps,address,
+Augustine B. Barnard,,"Pilotos, Auguascalientes",1889,place of birth,22.09856,-101.98806,", Pilotos, Auguascalientes","La Soledad-Pilotos, 20710 Asientos, AGS, Mexico",Bing Maps,street,
+Augustine B. Barnard,,"El Paso, Texas",1909,port of entry,31.7591591,-106.4874878,", El Paso, Texas","El Paso, TX",Bing Maps,city/town,
+Jose Fernando Martinez,620 E. Mo. Ave,"St. Joseph, Missouri",1934,current residence,39.72198,-94.8533,"620 E. Mo. Ave, St. Joseph, Missouri","620 E Missouri Ave, St Joseph, MO 64504",Bing Maps,address,
+Jose Fernando Martinez,,"Santiago, Mexico",1904,place of birth,25.3989391,-100.1350632,"santiago, nuevo leon","Santiago, Mexico",Bing Maps,city/town,
+Jose Fernando Martinez,,"Tampico, Mexico",1927,last foreign residence,22.2172947,-97.8557358,", Tampico, Mexico","Tampico, Mexico",Bing Maps,city/town,
+Jose Fernando Martinez,,"New Orleans, Louisiana",1927,port of entry,29.9536991,-90.0777512,", New Orleans, Louisiana","New Orleans, LA",Bing Maps,city/town,
+Jose Fernando Martinez,,"San Bernardino, California",1923,marriage,34.1052399,-117.2941208,", San Bernardino, California","San Bernardino, CA",Bing Maps,city/town,
+Jose Fernando Martinez,,"Pasadena, California",1924,birth of child,34.1474495,-118.1442719,", Pasadena, California","Pasadena, CA",Bing Maps,city/town,
+Arnulfo Ramirez,1629 Bartlett St,"St. Joseph, Missouri",1940,current residence,39.7523631,-94.8534917,"1629 Bartlett St, St. Joseph, Missouri","1629 Bartlett St, St Joseph, MO 64501",Bing Maps,address,
+Arnulfo Ramirez,,"Purepero, Mexico",1882,place of birth,19.9194241,-102.010643,", Purepero, Mexico","Purépero, Mexico",Bing Maps,city/town,
+Arnulfo Ramirez,,"Zamora, Mexico",,emigrated from,19.9935379,-102.2902527,", Zamora, Mexico","Zamora, Mexico",Bing Maps,city/town,
+Arnulfo Ramirez,,"El Paso, Texas",1902,port of entry,31.7591591,-106.4874878,", El Paso, Texas","El Paso, TX",Bing Maps,city/town,
+Jose Jesus Rivera,2538 S. 11th St.,"St. Joseph, Missouri",1940,current residence,39.742373,-94.847007,"2538 S. 11th St., St. Joseph, Missouri","2538 S 11th St, St Joseph, MO 64503",Bing Maps,address,
+Jose Jesus Rivera,,"Hercules, Queretaro",1899,place of birth,20.6012192,-100.3588791,", Hercules, Queretaro","Hércules, Mexico",Bing Maps,city/town,
+Jose Jesus Rivera,,"Independence, Missouri",1921,marriage,39.0932388,-94.4156265,", Independence, Missouri","Independence, MO",Bing Maps,city/town,
+Jose Jesus Rivera,,"St. Joseph, Missouri",1922,birth of child,39.7666016,-94.8560715,", St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Jose Jesus Rivera,,"Juarez, Mexico",1922,last foreign residence,31.7338161,-106.475502,", Juarez, Mexico","Ciudad Juárez, Mexico",Bing Maps,city/town,
+Jose Jesus Rivera,,"El Paso, Texas",1922,port of entry,31.7591591,-106.4874878,", El Paso, Texas","El Paso, TX",Bing Maps,city/town,
+Conrado Guaracho,2521 S. 2nd St.,"St. Joseph, Missouri",1940,current residence,39.7430661,-94.8578243,"Conrado Guaracho, 2521 S. 2nd St., St. Joseph, Missouri","2521 S 2nd St, St Joseph, MO 64501",Bing Maps,address,
+Conrado Guaracho,,"La Piedad, Mexico",1893,place of birth,20.3413601,-102.0327301,"Conrado Guaracho, , La Piedad, Mexico","La Piedad de Cabadas, Mexico",Bing Maps,city/town,
+Conrado Guaracho,,"Laredo, Texas",1915,port of entry,27.53092,-99.5022278,"Conrado Guaracho, , Laredo, Texas","Laredo, TX",Bing Maps,city/town,
+Cruz Frias Prieto,1222 Sylvanie St.,"St. Joseph, Missouri",1941,current residence,39.76429,-94.82234,"Cruz Frias Prieto, 1222 Sylvanie St., St. Joseph, Missouri","Sylvanie St, St Joseph, MO 64501",Bing Maps,street,
+Cruz Frias Prieto,,"Santa Barbara, Mexico",1904,place of birth,26.8352985,-105.8014603,"santa barbara, chihuahua","Santa Bárbara, Mexico",Bing Maps,city/town,-
+Cruz Frias Prieto,,"Havre, Montana",1928,marriage,48.5528717,-109.6710129,"Cruz Frias Prieto, , Havre, Montana","Havre, MT",Bing Maps,city/town,
+Cruz Frias Prieto,,"Havre, Montana",1926,birth of child,48.5528717,-109.6710129,"Cruz Frias Prieto, , Havre, Montana","Havre, MT",Bing Maps,city/town,
+Cruz Frias Prieto,,"Chihuahua, Mexico",1923,last foreign residence,28.6676,-106.12357,"Cruz Frias Prieto, , Chihuahua, Mexico","Calle Heriberto Frías, Infonavit Saucito, 31110 Chihuahua, CHIH, Mexico",Bing Maps,street,-
+Cruz Frias Prieto,,"El Paso, Texas",1923,port of entry,31.7591591,-106.4874878,"Cruz Frias Prieto, , El Paso, Texas","El Paso, TX",Bing Maps,city/town,
+Jesus Ruiz,1808 N. 3rd St.,"St. Joseph, Missouri",1941,current residence,39.78828,-94.85646,"Jesus Ruiz, 1808 N. 3rd St., St. Joseph, Missouri","N 3rd St, St Joseph, MO 64505",Bing Maps,street,
+Jesus Ruiz,,"Chihuahua, Mexico",1894,place of birth,28.6320686,-106.0711365,"Jesus Ruiz, , Chihuahua, Mexico","Chihuahua, Mexico",Bing Maps,city/town,
+Jesus Ruiz,,"Chihuahua, Chihuahua",1910,last foreign residence,28.69059,-106.09282,"Jesus Ruiz, , Chihuahua, Chihuahua","Calle José Ruíz, Francisco Villa, 31134 Chihuahua, CHIH, Mexico",Bing Maps,street,-
+Jesus Ruiz,,"El Paso, Texas",1910,port of entry,31.68995,-106.33491,"Jesus Ruiz, , El Paso, Texas","Ruiz Ct, El Paso, TX 79907",Bing Maps,street,-
+Jesus Ruiz,,"St. Joseph, Missouri",1919,marriage,39.7666016,-94.8560715,"Jesus Ruiz, , St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Natividad Renteria,1912 Bartlett,"St. Joseph, Missouri",1941,current residence,39.7666016,-94.8560715,"Natividad Renteria, 1912 Bartlett, St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Natividad Renteria,,"Durango, Mexico",1898,place of birth,24.0241699,-104.6606445,"Natividad Renteria, , Durango, Mexico","Durango, Mexico",Bing Maps,city/town,
+Natividad Renteria,,"Juarez, Mexico",1925,last foreign residence,31.7338161,-106.475502,"juarez, mexico","Ciudad Juárez, Mexico",Bing Maps,city/town,
+Natividad Renteria,,"El Paso, Texas",1925,port of entry,31.7591591,-106.4874878,"Natividad Renteria, , El Paso, Texas","El Paso, TX",Bing Maps,city/town,
+Natividad Renteria,,"St. Joseph, Missouri",1930,marriage,39.7666016,-94.8560715,"Natividad Renteria, , St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+John Bravo,2514 S. 3rd St.,"St. Joseph, Missouri",1941,current residence,39.7448609,-94.8566333,"John Bravo, 2514 S. 3rd St., St. Joseph, Missouri","2514 S 3rd St, St Joseph, MO 64501",Bing Maps,address,
+John Bravo,,"Tangansicuaro, Mexico",1914,place of birth,19.88941,-102.200798,"Tangancicuaro, Michoacan","Tangancícuaro de Arista, Mexico",Bing Maps,city/town,-
+John Bravo,,"Tangansicuaro, Mexico",1919,last foreign residence,19.88941,-102.200798,"Tangancicuaro, Michoacan","Tangancícuaro de Arista, Mexico",Bing Maps,city/town,-
+John Bravo,,"Laredo, Texas",1919,port of entry,27.53092,-99.5022278,"John Bravo, , Laredo, Texas","Laredo, TX",Bing Maps,city/town,
+John Bravo,,"St. Joseph, Missouri",1935,marriage,39.83582,-94.82328,"John Bravo, , St. Joseph, Missouri","John Glenn Rd, St Joseph, MO 64505",Bing Maps,street,-
+Refugio Bravo,2521 S. 2nd St.,"St. Joseph, Missouri",1942,current residence,39.7430661,-94.8578243,"Refugio Bravo, 2521 S. 2nd St., St. Joseph, Missouri","2521 S 2nd St, St Joseph, MO 64501",Bing Maps,address,
+Refugio Bravo,,"Tangansicuaro, Mexico",1896,place of birth,19.88941,-102.200798,"Tangancicuaro, Michoacan","Tangancícuaro de Arista, Mexico",Bing Maps,city/town,-
+Refugio Bravo,,"Tangansicuaro, Mexico",1919,last foreign residence,19.88941,-102.200798,"Tangancicuaro, Michoacan","Tangancícuaro de Arista, Mexico",Bing Maps,city/town,-
+Refugio Bravo,,"Laredo, Texas",1919,port of entry,27.53092,-99.5022278,"Refugio Bravo, , Laredo, Texas","Laredo, TX",Bing Maps,city/town,
+Refugio Bravo,,"Tangansicuaro, Mexico",1913,marriage,19.88941,-102.200798,"Tangancicuaro, Michoacan","Tangancícuaro de Arista, Mexico",Bing Maps,city/town,-
+Refugio Bravo,,"Hiawatha, Kansas",1922,birth of child,39.8534317,-95.5271606,"Refugio Bravo, , Hiawatha, Kansas","Hiawatha, KS",Bing Maps,city/town,
+Refugio Bravo,,"St. Joseph, Missouri",1924,birth of child,39.7666016,-94.8560715,"Refugio Bravo, , St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Dolores Bravo,5308 Lake,"St. Joseph, Missouri",1941,current residence,39.7666016,-94.8560715,"Dolores Bravo, 5308 Lake, St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Dolores Bravo,,"Tangansicuaro, Mexico",1918,place of birth,19.88941,-102.200798,"Tangancicuaro, Michoacan","Tangancícuaro de Arista, Mexico",Bing Maps,city/town,-
+Dolores Bravo,,"Tangansicuaro, Mexico",1919,last foreign residence,19.88941,-102.200798,"Tangancicuaro, Michoacan","Tangancícuaro de Arista, Mexico",Bing Maps,city/town,-
+Dolores Bravo,,"Laredo, Texas",1919,port of entry,27.53092,-99.5022278,"Dolores Bravo, , Laredo, Texas","Laredo, TX",Bing Maps,city/town,
+Dolores Bravo,,"St. Joseph, Missouri",1940,marriage,39.7666016,-94.8560715,"Dolores Bravo, , St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Dolores Bravo,,"St. Joseph, Missouri",1930,birth of child,39.7666016,-94.8560715,"Dolores Bravo, , St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Jose Almanza,2330 S. 7th,"St. Joseph, Missouri",1942,current residence,39.74472,-94.85195,"Jose Almanza, 2330 S. 7th, St. Joseph, Missouri","2330 S 7th St, St Joseph, MO 64501",Bing Maps,address,
+Jose Almanza,,"Salamanca, Guanajuato",1891,place of birth,20.55583,-101.19217,"Jose Almanza, , Salamanca, Guanajuato","Calle San José, Ampl La Gloria, 36773 Salamanca, GTO, Mexico",Bing Maps,street,-
+Jose Almanza,,"Salamanca, Guanajuato",1910,last foreign residence,20.55583,-101.19217,"Jose Almanza, , Salamanca, Guanajuato","Calle San José, Ampl La Gloria, 36773 Salamanca, GTO, Mexico",Bing Maps,street,-
+Jose Almanza,,"El Paso, Texas",1910,port of entry,31.7591591,-106.4874878,"Jose Almanza, , El Paso, Texas","El Paso, TX",Bing Maps,city/town,
+Jose Almanza,,"St. Joseph, Missouri",1914,marriage,39.7666016,-94.8560715,"Jose Almanza, , St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Guadalupe Duran,217 Wyoming Ave,"St. Joseph, Missouri",1943,current residence,39.720258,-94.86397,"Guadalupe Duran, 217 Wyoming Ave, St. Joseph, Missouri","217 Wyoming Ave, St Joseph, MO 64504",Bing Maps,address,
+Guadalupe Duran,,"Las Tablas, Guanajuato",1893,place of birth,20.75,-101.6500015,"Guadalupe Duran, , Las Tablas, Guanajuato","Las Tablas, Mexico",Bing Maps,city/town,
+Guadalupe Duran,,"Las Tablas, Guanajuato",1908,last foreign residence,20.75,-101.6500015,"Guadalupe Duran, , Las Tablas, Guanajuato","Las Tablas, Mexico",Bing Maps,city/town,
+Guadalupe Duran,,"El Paso, Texas",1908,port of entry,31.7591591,-106.4874878,"Guadalupe Duran, , El Paso, Texas","El Paso, TX",Bing Maps,city/town,
+Guadalupe Duran,,"Pawnee City, Nebraska",1918,marriage,40.1094704,-96.1536636,"Guadalupe Duran, , Pawnee City, Nebraska","Pawnee City, NE",Bing Maps,city/town,
+Guadalupe Duran,,"Pawnee City, Nebraska",1919,birth of child,40.1094704,-96.1536636,"Guadalupe Duran, , Pawnee City, Nebraska","Pawnee City, NE",Bing Maps,city/town,
+Guadalupe Duran,,"St. Joseph, Missouri",1921,birth of child,39.7666016,-94.8560715,"Guadalupe Duran, , St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Maria de Jesus Truman,2815 Jule,"St. Joseph, Missouri",1944,current residence,39.7666016,-94.8560715,"Maria de Jesus Truman, 2815 Jule, St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Maria de Jesus Truman,,"Avino, Durango",1904,place of birth,24.5232506,-104.2974701,"san jose de avino, durango","San José de Avino, Mexico",Bing Maps,city/town,-
+Maria de Jesus Truman,,"Avino, Durango",1916,last foreign residence,24.5232506,-104.2974701,"san jose de avino, durango","San José de Avino, Mexico",Bing Maps,city/town,-
+Maria de Jesus Truman,,"Eagle Pass, Texas",1916,port of entry,28.70924,-100.4995499,"Maria de Jesus Truman, , Eagle Pass, Texas","Eagle Pass, TX",Bing Maps,city/town,
+Maria de Jesus Truman,,"St. Joseph, Missouri",1935,marriage,39.7666016,-94.8560715,"Maria de Jesus Truman, , St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Maria de Jesus Truman,,"Kansas City, Kansas",1925,birth of child,39.1135216,-94.6268234,"Maria de Jesus Truman, , Kansas City, Kansas","Kansas City, KS",Bing Maps,city/town,
+Pedro Manuel Guardado,2131 S. 6th,"St. Joseph, Missouri",1943,current residence,39.747274,-94.85256,"Pedro Manuel Guardado, 2131 S. 6th, St. Joseph, Missouri","2131 S 6th St, St Joseph, MO 64501",Bing Maps,address,
+Pedro Manuel Guardado,,"San Geronimo, Mexico",1906,place of birth,26.2332993,-107.1669998,"san jeronimo, chihiuahua","San Jerónimo, Mexico",Bing Maps,city/town,-
+Pedro Manuel Guardado,,"San Geronimo, Mexico",1917,last foreign residence,26.2332993,-107.1669998,"san jeronimo, chihiuahua","San Jerónimo, Mexico",Bing Maps,city/town,-
+Pedro Manuel Guardado,,"El Paso, Texas",1917,port of entry,31.7591591,-106.4874878,"Pedro Manuel Guardado, , El Paso, Texas","El Paso, TX",Bing Maps,city/town,
+Pedro Manuel Guardado,,"St. Joseph, Missouri",1935,marriage,39.7666016,-94.8560715,"Pedro Manuel Guardado, , St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Concepcion Parra,Benedictine Convent,"Nodaway, Missouri",1943,current residence,39.9186592,-94.9773026,"Concepcion Parra, Benedictine Convent, Nodaway, Missouri","Nodaway, MO",Bing Maps,city/town,
+Concepcion Parra,,"Cuernavaca, Morelos",1915,place of birth,18.90657,-99.22725,"Concepcion Parra, , Cuernavaca, Morelos","Privada de la Parra, Fracc Las Colmenas, 62499 Cuernavaca, MOR, Mexico",Bing Maps,street,-
+Concepcion Parra,,Mexico City,1920,last foreign residence,19.48677,-99.20103,"Concepcion Parra, , Mexico City","Calle Concepción, Petrolera, 02480 Azcapotzalco, CDMX, Mexico",Bing Maps,street,-
+Concepcion Parra,,"Laredo, Texas",1920,port of entry,27.53092,-99.5022278,"Concepcion Parra, , Laredo, Texas","Laredo, TX",Bing Maps,city/town,
+Jesus Rodriguez,3103 N. 6th,"St. Joseph, Missouri",1943,current residence,39.792139,-94.852203,"Jesus Rodriguez, 3103 N. 6th, St. Joseph, Missouri","3103 N 6th St, St Joseph, MO 64505",Bing Maps,address,
+Jesus Rodriguez,,"Nochistlan, Zacatecas",1892,place of birth,21.3614826,-102.8478775,"nochistlan, zacatecas","Nochistlán, Mexico",Bing Maps,city/town,-
+Jesus Rodriguez,,"Nochistlan, Zacatecas",1910,last foreign residence,21.3614826,-102.8478775,"nochistlan, zacatecas","Nochistlán, Mexico",Bing Maps,city/town,-
+Jesus Rodriguez,,"El Paso, Texas",1910,port of entry,31.65547,-106.3089,"Jesus Rodriguez, , El Paso, Texas","Rodriguez Rd, El Paso, TX 79927",Bing Maps,street,-
+Jesus Rodriguez,,"St. Joseph, Missouri",1919,marriage,39.7666016,-94.8560715,"Jesus Rodriguez, , St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Teodoro Lopez,2138 S. 10th,"St. Joseph, Missouri",1944,current residence,39.74695,-94.84825,"Teodoro Lopez, 2138 S. 10th, St. Joseph, Missouri","2138 S 10th St, St Joseph, MO 64503",Bing Maps,address,
+Teodoro Lopez,,"Villa Corona, Jalisco",1896,place of birth,20.4247952,-103.6801834,"Teodoro Lopez, , Villa Corona, Jalisco","Villa Corona, Mexico",Bing Maps,city/town,
+Teodoro Lopez,,Ciudad Juarez,1916,last foreign residence,31.63796,-106.40654,"Teodoro Lopez, , Ciudad Juarez","Manuel López, Fracc Héroes de la Revolución, 32696 Juárez, CHIH, Mexico",Bing Maps,street,-
+Teodoro Lopez,,"El Paso, Texas",1916,last foreign residence,31.7591591,-106.4874878,"Teodoro Lopez, , El Paso, Texas","El Paso, TX",Bing Maps,city/town,
+Teodoro Lopez,,"St. Joseph, Missouri",1919,marriage,39.7666016,-94.8560715,"Teodoro Lopez, , St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Natividad Rocha Hernandez,2316 S. (th,"St. Joseph, Missouri",1944,current residence,39.7666016,-94.8560715,"Natividad Rocha Hernandez, 2316 S. (th, St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Natividad Rocha Hernandez,,"Silao, Guanajuato",1905,place of birth,20.94065,-101.42276,"Natividad Rocha Hernandez, , Silao, Guanajuato","Calle Sóstenes Rocha, Silao Centro, 36100 Silao, GTO, Mexico",Bing Maps,street,-
+Natividad Rocha Hernandez,,"Silao, Guanajuato",1916,last foreign residence,20.94065,-101.42276,"Natividad Rocha Hernandez, , Silao, Guanajuato","Calle Sóstenes Rocha, Silao Centro, 36100 Silao, GTO, Mexico",Bing Maps,street,-
+Natividad Rocha Hernandez,,"El Paso, Texas",1916,port of entry,31.7591591,-106.4874878,"Natividad Rocha Hernandez, , El Paso, Texas","El Paso, TX",Bing Maps,city/town,
+Natividad Rocha Hernandez,,"Laredo, Texas",1918,left United States,27.53092,-99.5022278,"Natividad Rocha Hernandez, , Laredo, Texas","Laredo, TX",Bing Maps,city/town,
+Natividad Rocha Hernandez,,"Laredo, Texas",1919,returned to United States,27.53092,-99.5022278,"Natividad Rocha Hernandez, , Laredo, Texas","Laredo, TX",Bing Maps,city/town,
+Natividad Rocha Hernandez,,"St. Joseph, Missouri",1927,marriage,39.7666016,-94.8560715,"Natividad Rocha Hernandez, , St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Jose Franco Jimenez,2106 S. 4th,"St. Joseph, Missouri",1944,current residence,39.7521047,-94.8558727,"Jose Franco Jimenez, 2106 S. 4th, St. Joseph, Missouri","2106 S 4th St, St Joseph, MO 64501",Bing Maps,address,
+Jose Franco Jimenez,,"Zacatecas, Zacatecas",1896,place of birth,22.77207,-102.54508,"Jose Franco Jimenez, , Zacatecas, Zacatecas","Andador San José, Fracc San Francisco de Herrera, 98067 Zacatecas, ZAC, Mexico",Bing Maps,street,-
+Jose Franco Jimenez,,"Zacatecas, Zacatecas",1916,last foreign residence,22.77207,-102.54508,"Jose Franco Jimenez, , Zacatecas, Zacatecas","Andador San José, Fracc San Francisco de Herrera, 98067 Zacatecas, ZAC, Mexico",Bing Maps,street,-
+Jose Franco Jimenez,,"El Paso, Texas",1916,port of entry,31.7591591,-106.4874878,"Jose Franco Jimenez, , El Paso, Texas","El Paso, TX",Bing Maps,city/town,
+Jose Franco Jimenez,,"Zacatecas, Zacatecas",1916,marriage,22.77207,-102.54508,"Jose Franco Jimenez, , Zacatecas, Zacatecas","Andador San José, Fracc San Francisco de Herrera, 98067 Zacatecas, ZAC, Mexico",Bing Maps,street,-
+Jose Franco Jimenez,,"Elwood, Kansas",1920,birth of child,39.7504883,-94.8712692,"Jose Franco Jimenez, , Elwood, Kansas","Elwood, KS",Bing Maps,city/town,
+Jose Franco Jimenez,,"Elwood, Kansas",1921,birth of child,39.7504883,-94.8712692,"Jose Franco Jimenez, , Elwood, Kansas","Elwood, KS",Bing Maps,city/town,
+Jose Franco Jimenez,,"St. Joseph, Missouri",1923,birth of child,39.7666016,-94.8560715,"Jose Franco Jimenez, , St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+David Mejia,327 W. Texas Ave,"St. Joseph, Missouri",1945,current residence,39.722595,-94.864261,"David Mejia, 327 W. Texas Ave, St. Joseph, Missouri","327 Texas Ave, St Joseph, MO 64504",Bing Maps,address,
+David Mejia,,"Artiaga, Michoacán",1886,place of birth,18.339241,-102.2950287,"David Mejia, , Artiaga, Michoacán","Arteaga, Mexico",Bing Maps,city/town,
+David Mejia,,"Urupan, Michoacán",1919,last foreign residence,19.42374,-102.08409,"David Mejia, , Urupan, Michoacán","Calle Ángela Davis, Plan de Ayala, 60014 Uruapan, MICH, Mexico",Bing Maps,street,-
+David Mejia,,"Laredo, Texas",1919,port of entry,27.53092,-99.5022278,"David Mejia, , Laredo, Texas","Laredo, TX",Bing Maps,city/town,
+David Mejia,,"Centerville, Iowa",1919,marriage,40.7325211,-92.8656387,"David Mejia, , Centerville, Iowa","Centerville, IA",Bing Maps,city/town,
+David Mejia,,"Centerville, Iowa",1920,birth of child,40.7325211,-92.8656387,"David Mejia, , Centerville, Iowa","Centerville, IA",Bing Maps,city/town,
+David Mejia,,"Centerville, Iowa",1922,birth of child,40.7325211,-92.8656387,"David Mejia, , Centerville, Iowa","Centerville, IA",Bing Maps,city/town,
+David Mejia,,"St. Joseph, Missouri",1923,birth of child,39.7666016,-94.8560715,"David Mejia, , St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Nick Antuna,817 Warsaw Avenue,"St. Joseph, Missouri",1956,current residence,39.7666016,-94.8560715,"Nick Antuna, 817 Warsaw Avenue, St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Nick Antuna,,"Durango, Mexico",1909,place of birth,24.01987,-104.66027,"Nick Antuna, , Durango, Mexico","Boulevard Coronel Enrique Carrola Antuna, Fracc Herrera Leyva, 34000 Durango, DGO, Mexico",Bing Maps,street,-
+Nick Antuna,,"Durango, Mexico",1923,last foreign residence,24.01987,-104.66027,"Nick Antuna, , Durango, Mexico","Boulevard Coronel Enrique Carrola Antuna, Fracc Herrera Leyva, 34000 Durango, DGO, Mexico",Bing Maps,street,-
+Nick Antuna,,"Laredo, Texas",1923,port of entry,27.53092,-99.5022278,"Nick Antuna, , Laredo, Texas","Laredo, TX",Bing Maps,city/town,
+Nick Antuna,,"St. Joseph, Missouri",1933,marriage,39.7666016,-94.8560715,"Nick Antuna, , St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Maria Bringas Renteria,2432 Bartlett St.,"St. Joseph, Missouri",1947,current residence,39.7666016,-94.8560715,"st. joseph, missouri","St Joseph, MO",Bing Maps,city/town,-
+Maria Bringas Renteria,,Topia Durango,1900,place of birth,25.2103004,-106.5719986,"Maria Bringas Renteria, , Topia Durango","Topia, Mexico",Bing Maps,city/town,
+Maria Bringas Renteria,,"Durango, Mexico",1920,last foreign residence,24.01743,-104.58959,"Maria Bringas Renteria, , Durango, Mexico","La Santa María, Granja Cristóbal Colón, 34306 Durango, DGO, Mexico",Bing Maps,street,-
+Maria Bringas Renteria,,"Laredo, Texas",1920,port of entry,27.53092,-99.5022278,"Maria Bringas Renteria, , Laredo, Texas","Laredo, TX",Bing Maps,city/town,
+Maria Bringas Renteria,,"St. Joseph, Missouri",1920,marriage,39.7666016,-94.8560715,"Maria Bringas Renteria, , St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Daniel Olvera,315 W. Texas,"St. Joseph, Missouri",1948,current residence,39.7666016,-94.8560715,"Daniel Olvera, 315 W. Texas, St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
+Daniel Olvera,,"Santa Barbara, Mexico",1888,place of birth,26.8352985,-105.8014603,"santa barbara, chihuahua","Santa Bárbara, Mexico",Bing Maps,city/town,-
+Daniel Olvera,,"Lagos, Jalisco",1919,last foreign residence,21.362524,-101.9218979,"lagos de moreno, jalisco","Lagos de Moreno, Mexico",Bing Maps,city/town,-
+Daniel Olvera,,"Laredo, Texas",1919,port of entry,27.53092,-99.5022278,"Daniel Olvera, , Laredo, Texas","Laredo, TX",Bing Maps,city/town,
+Daniel Olvera,,Lago de Moreno,1909,marriage,21.362524,-101.9218979,"lagos de moreno, jalisco","Lagos de Moreno, Mexico",Bing Maps,city/town,-
+Daniel Olvera,,"Lagos, Jalisco",1914,birth of child,21.362524,-101.9218979,"lagos de moreno, jalisco","Lagos de Moreno, Mexico",Bing Maps,city/town,-
+Daniel Olvera,,"Lagos, Jalisco",1915,birth of child,21.362524,-101.9218979,"lagos de moreno, jalisco","Lagos de Moreno, Mexico",Bing Maps,city/town,-
+Daniel Olvera,,"St. Joseph, Missouri",1919,birth of child,39.7666016,-94.8560715,"Daniel Olvera, , St. Joseph, Missouri","St Joseph, MO",Bing Maps,city/town,
